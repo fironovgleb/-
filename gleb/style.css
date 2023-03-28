@@ -142,6 +142,8 @@ img[class="3"]{
     background-color: whitesmoke;
     border: solid 3px black;
     border-radius: 8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
 }
 
 .pr2 button{
@@ -152,8 +154,8 @@ img[class="3"]{
     width: 100px;
     height: 100px;
     position: fixed;
-    margin-top: 31%;
-    margin-left: 7%;
+    margin-top: 40px;
+    margin-left: 140px;
     border: none;
     border-radius: 20%;
     transition: all 0.5s;
