@@ -15,37 +15,18 @@
   2. Отредактируйте файл main.html
 
 <
-<body>
-        <div class="header">
-            <div class="img">
-                <img src="img/Clip-Art-Fire-PNG-Clipart-Background.png" class="2">
-                <img src="img/logo.png" alt="Logo">
-                <img src="img/Clip-Art-Fire-PNG-Clipart-Background.png" class="3">
-            </div>
-        </div>
-        <div class="main">
-            <div class="info">
-                <div class="text">
-                    <a>DND это</a>
-                    <p>,jfhjsgjfvsjfhgjsebjh</p>
-                </div>
-            </div>
-            <div class="container">
-                <div class="container-info">
-                    <div class="info2"></div>
-                    <div class="info3"></div>
-                </div>
-                <div class="container-pr">
-                    <div class="pr">
-                        <button>Жми</button>
-                    </div>
-                    <div class="pr2">
-                        <button></button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    <!-- TODO: 2 site -->
-    </body>
+.pr2 button{
+    background-image: url("img/4303479_0.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120% 120%;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    margin-top: 31%;
+    margin-left: 7%;
+    border: none;
+    border-radius: 20%;
+    transition: all 0.5s;
+}
 >
-  
