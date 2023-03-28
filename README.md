@@ -14,7 +14,7 @@
   1. Откройте проект
   2. Отредактируйте файл main.html
 
-<
+```
 .pr2 button{
     background-image: url("img/4303479_0.webp");
     background-repeat: no-repeat;
@@ -29,4 +29,4 @@
     border-radius: 20%;
     transition: all 0.5s;
 }
->
+```
