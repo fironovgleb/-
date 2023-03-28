@@ -8,10 +8,27 @@
  Редактор кода
  
  Как установить:
-  git clone https://github.com/C0vpy4/sites.git
+  git clone https://github.com/fironovgleb/-.git
  
  Как использовать:
   1. Откройте проект
   2. Отредактируйте файл main.html
 
-Ы
+
+  наприме, вот одна из кнопок
+
+  .pr2 button{
+    background-image: url("img/4303479_0.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120% 120%;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    margin-top: 31%;
+    margin-left: 7%;
+    border: none;
+    border-radius: 20%;
+    transition: all 0.5s;
+}
+
