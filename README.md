@@ -1,5 +1,5 @@
-![Логотип](https://s9.travelask.ru/uploads/post/000/025/923/main_image/full-2af6fc8c8210d9ac04b6f99f426b45bd.jpg "Логотип Github")
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/simpleicons.svg" />
+![Логотип](https://i.ytimg.com/vi/sXFJIiycVxE/maxresdefault.jpg "Логотип Github")
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/adblockplus.svg" />
 
 Краткое описание:
 сайт для ознакомления с игрой на базе настольно ролевых "ДНД
@@ -12,5 +12,6 @@
  
  Как использовать:
   1. Откройте проект
-  2n. Отредактируйте файл main.html
+  2. Отредактируйте файл main.html
 
+Ы
