@@ -52,21 +52,21 @@ img[class="3"]{
     display: flex;
     flex-direction: column;
 
-    height: 1000px;
+    height: auto;
     width: 100%;
 }
 
 .info{
     margin-left: 38px;
     width: 95%;
-    height: 550px;
+    height: auto;
     background-color: whitesmoke;
     border: solid 3px black;
     border-radius: 8px;
 }
 
 .text{
-    height: 150px;
+    height: auto;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18.5px;
 }
@@ -92,6 +92,12 @@ img[class="3"]{
     background-color: whitesmoke;
     border: solid 3px black;
     border-radius: 8px;
+     font-size: 25px;
+}
+
+.info2 a{
+    text-decoration: none;
+    color: #812C00;
 }
 
 .info3{
@@ -116,24 +122,29 @@ img[class="3"]{
 }
 
 .pr{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
     position: relative;
     margin-top: 3px;
     margin-left: 38px;
-    width: 20%;
-    height: 500px;
+    width: 30%;
+    height: auto;
     background-color: whitesmoke;
     border: solid 3px black;
     border-radius: 8px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
+    font-size: 17px;
 }
 
+.pr .text p{
+    padding: 5px 0 ;
+}
 
 .pr button{
     width: 200px;
     height: 100px;
-    position: fixed;
-    margin-top: 31%;
     margin-left: 4%;
     border-radius: 8px;
     transition: all 0.5s;
